@@ -31,8 +31,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "postinstall": "npm run webpack",
-    "webpack": "webpack"
+    "postinstall": "npm run start"
   },
   "eslintConfig": {
     "extends": [
