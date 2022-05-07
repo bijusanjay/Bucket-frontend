@@ -151,7 +151,7 @@ const ListFiles = () => {
           [`& .MuiDrawer-paper`]: {
             width: drawerWidth,
             boxSizing: "border-box",
-            zIndex: -1,
+            zIndex: 0,
           },
         }}
       >
